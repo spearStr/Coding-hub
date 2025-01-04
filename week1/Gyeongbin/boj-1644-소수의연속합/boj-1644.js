@@ -13,7 +13,6 @@ const getPrime = (n) => {
         }
     }
     return allNums.map((v, i) => {if(v === true) return i}).filter((v) => v);
-    
 }
 
 const getSumAfterSlice = (initVal, offset, arr) => {
