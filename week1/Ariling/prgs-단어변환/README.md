@@ -8,7 +8,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/43163
 
 ## ✔ 문제풀이
 
-> **python**
+> **python && js**
 
 - DFS함수
   - 기저조건들을 두어 불필요한 재귀를 막아둔다.
